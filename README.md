@@ -7,8 +7,34 @@ leurs définitions et les lignes de commandes avec leurs utilisations correspond
 
 ### Liste
 
+- **back-end**
+
+- **base de données**
+
+- **client**
+
+- **CSS**
+
+- **Front-end**
+
 - **GIT** : Git est un système de contrôle de version le plus largement utilisé aujourd'hui. Git est un projet open source avancé, 
    qui est activement maintenu. À l'origine, il a été développé en 2005 par Linus TORVALS, le créateur bien connu du noyau du système d'exploitation Linux.
+
+- **GITHUB**
+
+- **HTML**
+
+- **Intégration**
+
+- **Java**
+
+- **Javascript**
+
+- **Ligne de commande**
+
+
+
+
 
 
 
