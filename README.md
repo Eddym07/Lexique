@@ -7,7 +7,7 @@ leurs définitions et les lignes de commandes avec leurs utilisations correspond
 
  >> ## Lexique
 
-### Liste termes technique
+### Liste termes techniques
 
 - **back-end** : le back-end est la maîtrise de toute la partie invisible pour l’utilisateur, mais qui va permettre le bon fonctionnement d’un site internet
    la majeure partie du travail du développeur back-end se concentre sur la mise en place de l’hébergement web ou encore de la gestion de bases de données (notamment avec l’outil MySQL)
@@ -21,17 +21,19 @@ leurs définitions et les lignes de commandes avec leurs utilisations correspond
    et la personne qui opère les demandes.
    L'ordinateur client est généralement un ordinateur personnel ordinaire, équipés de logiciels relatifs aux différents types de demandes qui vont être envoyées, comme un navigateur web.
 
-- **Front-end**
+- **Front-end** Le front-end correspond une page internet ou d’une application qu’un utilisateur peut voir et avec lesquelles il peut interagir directement. HTML, CSS et JavaScript.
+   L’aspect responsive web design d’un site internet, aussi bien que son ergonomie incombe au travail d’un développeur web front-end.
 
 - **GIT** : Git est un système de contrôle de version le plus largement utilisé aujourd'hui. Git est un projet open source avancé,
    qui est activement maintenu. À l'origine, il a été développé en 2005 par Linus TORVALS, le créateur bien connu du noyau du système d'exploitation Linux.
 
-- **GITHUB**
+- **GITHUB** : Lancé en 2008, GitHub est un site web conçu pour fédérer et partager le code source d'un projet de développement d'application mis à œuvre par plusieurs programmeurs.
 
 
-###Liste programmation
+### Liste programmation
 
-- **CSS**
+- **CSS** : Le CSS pour Cascading Style Sheets, traduit en français par feuilles de style en cascade, est un langage informatique utilisé sur Internet 
+   pour la mise en forme de fichiers et de pages HTML. 
 
 - **Front-end**
 
